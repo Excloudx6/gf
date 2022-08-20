@@ -1,0 +1,15 @@
+{
+    "flags": "-Prohi",
+    "pattern": "[t|T][w|W][i|I][t|T][t|T][e|E][r|R].{0,30}['\"\\s][0-9a-zA-Z]{35,44}['\"\\s]"
+}
+{
+    "flags": "-HanrEo",
+    "pattern": "twitter.*['|\"][0-9a-zA-Z]{35,44}['|\"]"
+}{
+    "flags": "-Prohi",
+    "pattern": "(?i)twitter(.{0,20})?['\"][0-9a-z]{35,44}"
+}
+{
+    "flags": "-HanrEo",
+    "pattern": "twitter.*[1-9][0-9]+-[0-9a-zA-Z]{40}"
+}
