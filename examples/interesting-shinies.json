@@ -1,0 +1,9 @@
+{
+    "flags": "-riE",
+     "patterns": [
+"admin",
+"graphql",
+"beta",
+"samesite"
+]
+}

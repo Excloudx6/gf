@@ -1,0 +1,8 @@
+{
+    "flags": "-HrniE",
+     "patterns": [
+"site_id",
+"siteid",
+"site:"
+]
+}
