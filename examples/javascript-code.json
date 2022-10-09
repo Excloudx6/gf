@@ -1,0 +1,9 @@
+{
+    "flags": "-HrniE",
+    "patterns": [
+      "<script>", 
+      "<noscript>", 
+      "</script>",
+      "script src="
+    ]
+}

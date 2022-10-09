@@ -1,0 +1,4 @@
+{
+    "flags": "-HrniE",
+    "pattern": "\u003c[\\/]?script\u003e,script src="
+}

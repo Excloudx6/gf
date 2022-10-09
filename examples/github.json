@@ -1,4 +1,4 @@
 {
-    "flags": "-Prohi",
+    "flags": "-Hrohi",
     "pattern": "(?i)github(.{0,20})?(?-i)['\"][0-9a-zA-Z]{35,40}"
 }

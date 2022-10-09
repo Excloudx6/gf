@@ -1,4 +1,4 @@
 {
-    "flags": "-Hnri",
+    "flags": "-ahri",
     "pattern": "firebaseio.com"
 }
